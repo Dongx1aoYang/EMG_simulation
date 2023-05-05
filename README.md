@@ -7,4 +7,4 @@ Open a terminal and clone the repository to local.
 ```bash
 git clone https://github.com/Dongx1aoYang/EMG_simulation.git
 ```
-
+Navigate to the <catkin_ws> directory
