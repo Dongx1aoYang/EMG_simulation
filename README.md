@@ -38,5 +38,5 @@ rosrun emg_sim emg_publisher.py
 ```
 To run the subscriber, open another new terminal:
 ```bash
-rosrun emg_sim emg_publisher.py
+rosrun emg_sim emg_subscriber.py
 ```
