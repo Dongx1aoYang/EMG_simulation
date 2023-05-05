@@ -22,9 +22,8 @@ Go back the the workspace root directory and source the `setup.bash`.
 cd ~/catkin_practice_ws
 source devel/setup.bash
 ```
-Build the catkin workspace again.
+Build the catkin workspace again to update the new package.
 ```bash
-cd ..
 catkin_make
 ```
 Run `roscore` to activate ROS.
