@@ -1,5 +1,5 @@
 # EMG_simulation
-This is a ROS practice. The task is to write a topic named "simulated_emg". In this topic, there is a publisher and a subscriber.
+This is a ROS practice. The task is to write a topic named "simulated_emg". In this topic, there is a publisher and a subscriber. The practice is based on ROS Noetic, installed on Ubuntu 20.04.
 
 # Procedures to run the code
 Prepare a catkin workspace. The workspace is created under the home directory below.
