@@ -4,6 +4,7 @@ This is a ROS practice. The task is to write a topic named "simulated_emg". In t
 # Procedures to run the code
 
 Open a terminal and clone the repository to local.
-'''bash
+```bash
 git clone https://github.com/Dongx1aoYang/EMG_simulation.git
-'''
+```
+
