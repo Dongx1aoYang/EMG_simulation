@@ -4,8 +4,8 @@ This is a ROS practice. The task is to write a topic named "simulated_emg". In t
 # Procedures to run the code
 Prepare a catkin workspace. The workspace is created under the home directory below.
 ```bash
-mkdir ~/catkin_ws
-cd ~/catkin_ws
+mkdir ~/catkin_practice_ws
+cd ~/catkin_practice_ws
 mkdir src
 ```
 Prepare and build the workspace.
@@ -19,7 +19,7 @@ git clone https://github.com/Dongx1aoYang/EMG_simulation.git
 ```
 Go back the the workspace root directory and source the `setup.bash`.
 ```bash
-cd ~/catkin_ws
+cd ~/catkin_practice_ws
 source devel/setup.bash
 ```
 Build the catkin workspace again.
